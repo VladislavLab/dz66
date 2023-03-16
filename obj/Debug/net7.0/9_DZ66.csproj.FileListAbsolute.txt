@@ -1,0 +1,15 @@
+E:\_git_\_c#_\lek7\9_DZ66\bin\Debug\net7.0\9_DZ66.exe
+E:\_git_\_c#_\lek7\9_DZ66\bin\Debug\net7.0\9_DZ66.deps.json
+E:\_git_\_c#_\lek7\9_DZ66\bin\Debug\net7.0\9_DZ66.runtimeconfig.json
+E:\_git_\_c#_\lek7\9_DZ66\bin\Debug\net7.0\9_DZ66.dll
+E:\_git_\_c#_\lek7\9_DZ66\bin\Debug\net7.0\9_DZ66.pdb
+E:\_git_\_c#_\lek7\9_DZ66\obj\Debug\net7.0\9_DZ66.csproj.AssemblyReference.cache
+E:\_git_\_c#_\lek7\9_DZ66\obj\Debug\net7.0\9_DZ66.GeneratedMSBuildEditorConfig.editorconfig
+E:\_git_\_c#_\lek7\9_DZ66\obj\Debug\net7.0\9_DZ66.AssemblyInfoInputs.cache
+E:\_git_\_c#_\lek7\9_DZ66\obj\Debug\net7.0\9_DZ66.AssemblyInfo.cs
+E:\_git_\_c#_\lek7\9_DZ66\obj\Debug\net7.0\9_DZ66.csproj.CoreCompileInputs.cache
+E:\_git_\_c#_\lek7\9_DZ66\obj\Debug\net7.0\9_DZ66.dll
+E:\_git_\_c#_\lek7\9_DZ66\obj\Debug\net7.0\refint\9_DZ66.dll
+E:\_git_\_c#_\lek7\9_DZ66\obj\Debug\net7.0\9_DZ66.pdb
+E:\_git_\_c#_\lek7\9_DZ66\obj\Debug\net7.0\9_DZ66.genruntimeconfig.cache
+E:\_git_\_c#_\lek7\9_DZ66\obj\Debug\net7.0\ref\9_DZ66.dll
